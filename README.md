@@ -1,6 +1,6 @@
 # Information-Management
 
-Economics
+##Economics
     • Economics
     • Business economics
     • Statistics in business
@@ -11,7 +11,7 @@ Economics
     • Financial analysis and business evaluation
     • Scientific research methodology
     • Special issues in law
-Management
+##Management
     • Information technology in business
     • Element of Didactics and Pedagogy
     • Information and communication management
@@ -25,7 +25,7 @@ Management
     • E - Business
     • Management of SMEs enterprises - entrepreneurship
     • Expert systems and decision support systems
-Information technology
+##Information technology
     • Discrete mathematics - Linear algebra
     • Internet information management
     • Computer architecture
@@ -41,7 +41,7 @@ Information technology
     • Visual programming and User interface Design
     • Multimedia in information management 
 
-English
+##English
     • English language I
     • English language II
     • Terminology in English language
